@@ -1,2 +1,3 @@
 # Basic-Express-API-server
-Basic Serevr API
+
+This is a basic API with CRUD actions
